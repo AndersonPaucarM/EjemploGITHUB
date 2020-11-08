@@ -1,2 +1,0 @@
-# EjemploGITHUB
-Codigo C++
